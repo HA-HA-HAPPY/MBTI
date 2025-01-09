@@ -1,5 +1,5 @@
 
-# MBTI 性格测试程序
+MBTI 性格测试程序
 
 ## 介绍
 
@@ -45,9 +45,16 @@ pip install flask cryptography
 - 测试结果仅供参考，任何决策应根据个人实际情况做出。  
 - 如有问题，请通过邮箱联系我：**351082290@qq.com**。
 
+## 友情链接
+
+- **GitHub 开源地址**: [https://github.com/HA-HA-HAPPY/MBTI](https://github.com/HA-HA-HAPPY/MBTI)  
+- **百度网盘链接**: [https://pan.baidu.com/s/1NFfw7rngujci2H3ZMQmHTw?pwd=0y5t](https://pan.baidu.com/s/1NFfw7rngujci2H3ZMQmHTw?pwd=0y5t) 提取码：0y5t  
+- **夸克网盘链接**: [https://pan.quark.cn/s/a0eb2fdf7def](https://pan.quark.cn/s/a0eb2fdf7def) 提取码：6bX1  
+- **迅雷网盘链接**: [https://pan.xunlei.com/s/VOG9-bPLtq_a43K_UiswmJmKA1#](https://pan.xunlei.com/s/VOG9-bPLtq_a43K_UiswmJmKA1#) 提取码：7ggg
+
 ---
 
-# MBTI Personality Test Program
+MBTI Personality Test Program
 
 ## Introduction
 
@@ -93,4 +100,9 @@ This project has been packaged into an EXE program, which can be run directly by
 - The test results are for reference only, and any decisions should be made based on individual circumstances.  
 - If you encounter any issues, feel free to contact me via email: **351082290@qq.com**.  
 
----
+## Links
+
+- **GitHub Repository**: [https://github.com/HA-HA-HAPPY/MBTI](https://github.com/HA-HA-HAPPY/MBTI)  
+- **Baidu Netdisk**: [https://pan.baidu.com/s/1NFfw7rngujci2H3ZMQmHTw?pwd=0y5t](https://pan.baidu.com/s/1NFfw7rngujci2H3ZMQmHTw?pwd=0y5t) Password: 0y5t  
+- **Quark Netdisk**: [https://pan.quark.cn/s/a0eb2fdf7def](https://pan.quark.cn/s/a0eb2fdf7def) Password: 6bX1
+- **Xunlei Netdisk**: [https://pan.xunlei.com/s/VOG9-bPLtq_a43K_UiswmJmKA1#](https://pan.xunlei.com/s/VOG9-bPLtq_a43K_UiswmJmKA1#) 提取码：7ggg
